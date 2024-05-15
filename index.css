@@ -1,0 +1,11 @@
+h1, body {
+  font-family: Monaco, monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  background-image: url(images/yellow_rock.jpg);
+}
